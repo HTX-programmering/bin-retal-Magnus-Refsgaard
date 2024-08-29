@@ -1,0 +1,25 @@
+Resume: Bytes og bit i det binære system
+
+Bit er en del af en hel byte som består af 8 bites, som aflæses fra højre til venstre.
+Som modsat fra daligt læsning
+
+"Dette kan vi udtrykke matematisk. 10 er grundtallet i talsystemet, eksponenten
+angiver tallets placering/værdi (0=ettere, 1=tierne, 2=hundrederne) og 1 er
+ciferet, vi ønsker at kende værdien for. Cifrets værdi er: 10n ∗ tallet."
+
+Der er også to tal system, som nogle kender fra minecraft. Med 2 tal systemet starter vi ved 1 og tilføjer det samme oven i så den vil hede 1,2,4,8,16,32,64 osv
+Den største vlrdi man ka opnå igennem 2 tals taktiken der vil man ramme 256
+
+Hvis en byte er signed, betyder det, at den kan bruges til både positive og
+negative værdier. The most significant bit er den bit, som har den største
+værdi, dvs. den bit, som er længst til venstre. Denne bit benyttes til at angive,
+om det er et positivt eller negativt tal. Dermed er den maksimale værdi 127 og
+den mindste −128, og antallet af forskellige værdier er 256.
+
+Opgave:
+A) hvilket vindue skal hun tænde lys i for klokken 3
+første og andet vindue
+B) hvilket vindue skal hun tænde lys i for klokken 5
+første og tredie vindue
+C) hvilket vindue skal hun tænde lys i for klokken 10
+andet og sidste vindue
